@@ -11,6 +11,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
 }
 
 .header h1 {
@@ -87,7 +88,10 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+.benefits {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,8 +103,7 @@ p {
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+    
 }
 
 .benefit-lead h3 {
