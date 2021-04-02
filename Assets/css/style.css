@@ -27,29 +27,29 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* */
+/* style for the unordered list*/
 .header nav ul {
     list-style-type: none;
 }
-/* */
+/* list item display and margin from the left*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* */
+/* background color of the page */
 body {
     background-color: #d9dcd6;
 }
-/* */
+/* color of the text of the link */
 link {
     color: #ffffff;
     text-decoration: none;
 }
-/* */
+/* font size of the paragraphs */
 p {
     font-size: 16px;
 }
-/* */
+/* properties for all the open space and background */
 .space {
     height: 800px;
     width: 100%;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* */
+/* spacing and color of the benefits section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -161,33 +161,18 @@ p {
     color: #ffffff;
 }
 /* */
-.search-engine-optimization img {
+.content img {
     max-height: 200px;
 }
-/* */
-.online-reputation-management img {
-    max-height: 200px;
+
 }
-/* */
-.social-media-marketing img {
-    max-height: 200px;
-}
-/* */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* */
-.online-reputation-management h2 {
+/* properties for the content boxes*/
+.link h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 
 /* properties for the footer */
 .footer {
